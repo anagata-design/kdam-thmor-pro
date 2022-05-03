@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+                <html lang="en">
+                    <head>
+                        <meta charset="utf-8">
+                        <title>Fontbakery Check Report</title>
+                        <style>
+                            
+            html {
+                font-family: sans-serif;
+            }
+
+            h2 {
+                margin-top: 2em;
+            }
+
+            h3 {
+                margin-bottom: 1px;
+            }
+
+            table {
+                border-collapse: collapse;
+            }
+
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 0.5em
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            tr {
+                text-align: left;
+            }
+
+            ul {
+                margin-top: 0;
+            }
+
+            .details_item {
+                list-style: none;
+                display: flex;
+                align-items: baseline;
+            }
+
+            .details_indicator {
+                flex: 0 0 5em;
+                font-weight: bold;
+                padding-right: 0.5em;
+                text-align: right;
+            }
+
+            .details_text {
+                flex: 1 0;
+            }
+            
+                        </style>
+                    </head>
+                    <body>
+                    <h1>Fontbakery Technical Report</h1>
+<div>If you think a check is flawed or have an idea for a check, please  file an issue at <a href='https://github.com/googlefonts/fontbakery/issues'>https://github.com/googlefonts/fontbakery/issues</a> and remember to include a pointer to the repo and branch you're checking.</div>
+<h2>Summary</h2>
+            <table>
+            <tr>
+                <th>💥 ERROR</th>
+                <th>🔥 FAIL</th>
+                <th>⚠️ WARN</th>
+                <th>⏩ SKIP</th>
+                <th>ℹ️ INFO</th>
+                <th>✔️ PASS</th>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>1</td>
+                <td>7</td>
+                <td>109</td>
+                <td>7</td>
+                <td>101</td>
+            </tr>
+            <tr>
+                <td>0%</td>
+                <td>1%</td>
+                <td>4%</td>
+                <td>63%</td>
+                <td>4%</td>
+                <td>59%</td>
+            </tr>
+            </table>
+            
+<p><strong>Note:</strong> The following loglevels were omitted in this report: SKIP, INFO, PASS, DEBUG</p>
+<h2>&lt;Section: Google Fonts&gt; 🔥⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
+<h3>Checking OS/2 achVendID.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/vendor_id&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 VendorID value 'ANGT' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
+[code: unknown]</p>
+</span></li></ul></div></details>
+<h3>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/os2/use_typo_metrics&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/KdamThmorTwo-Regular.ttf']. [code: missing-os2-fsselection-bit7]</p>
+</span></li></ul></div></details>
+<h3>Ensure fonts have ScriptLangTags declared on the 'meta' table.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/meta/script_lang_tags&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Universal&gt; ⚠️⚠️⏩⏩⏩⏩⏩ℹ️ℹ️</h2>
+<h3>Check if each glyph has the recommended amount of contours.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/contour_count&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: asterisk	Contours detected: 5	Expected: 1 or 4
+- Glyph name: uni00AD	Contours detected: 1	Expected: 0
+- Glyph name: Eth	Contours detected: 3	Expected: 2
+- Glyph name: dagger	Contours detected: 4	Expected: 1 or 2
+- Glyph name: daggerdbl	Contours detected: 7	Expected: 1 or 3
+- Glyph name: uni25CC	Contours detected: 10	Expected: 16 or 12
+- Glyph name: Eth	Contours detected: 3	Expected: 2
+- Glyph name: asterisk	Contours detected: 5	Expected: 1 or 4
+- Glyph name: dagger	Contours detected: 4	Expected: 1 or 2
+- Glyph name: daggerdbl	Contours detected: 7	Expected: 1 or 3
+- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+- And Glyph name: uni25CC	Contours detected: 10	Expected: 16 or 12
+</code></pre>
+<p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<h3>Ensure no GSUB5/GPOS7 lookups are present.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gsub5_gpos7&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font contains a GSUB5 lookup which is not processed by macOS [code: has-gsub5]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Outline Correctness Checks&gt; ⚠️⚠️⚠️</h2>
+<h3>Are there any misaligned on-curve points?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_alignment_miss&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have on-curve points which have potentially incorrect y coordinates:
+* comma (U+002C): X=92.0,Y=2.0 (should be at baseline 0?)
+* comma (U+002C): X=51.0,Y=2.0 (should be at baseline 0?)
+* seven (U+0037): X=21.0,Y=794.0 (should be at cap-height 793?)
+* seven (U+0037): X=392.0,Y=794.0 (should be at cap-height 793?)
+* semicolon (U+003B): X=114.0,Y=2.0 (should be at baseline 0?)
+* semicolon (U+003B): X=74.0,Y=2.0 (should be at baseline 0?)
+* Z (U+005A): X=558.0,Y=-1.0 (should be at baseline 0?)
+* Z (U+005A): X=134.0,Y=-1.0 (should be at baseline 0?)
+* Z (U+005A): X=63.0,Y=794.0 (should be at cap-height 793?)
+* Z (U+005A): X=463.0,Y=794.0 (should be at cap-height 793?) and 19 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: found-misalignments]</p>
+</span></li></ul></div></details>
+<h3>Do any segments have colinear vectors?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_colinear_vectors&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
+* dagger (U+2020): L&lt;&lt;227.0,0.0&gt;--&lt;213.0,305.0&gt;&gt; -&gt; L&lt;&lt;213.0,305.0&gt;--&lt;213.0,448.0&gt;&gt;
+* dagger (U+2020): L&lt;&lt;292.0,448.0&gt;--&lt;292.0,306.0&gt;&gt; -&gt; L&lt;&lt;292.0,306.0&gt;--&lt;277.0,0.0&gt;&gt;
+* exclam (U+0021): L&lt;&lt;120.0,247.0&gt;--&lt;92.0,612.0&gt;&gt; -&gt; L&lt;&lt;92.0,612.0&gt;--&lt;92.0,805.0&gt;&gt;
+* exclam (U+0021): L&lt;&lt;220.0,805.0&gt;--&lt;220.0,612.0&gt;&gt; -&gt; L&lt;&lt;220.0,612.0&gt;--&lt;191.0,247.0&gt;&gt;
+* exclamdown (U+00A1): L&lt;&lt;185.0,365.0&gt;--&lt;213.0,0.0&gt;&gt; -&gt; L&lt;&lt;213.0,0.0&gt;--&lt;213.0,-193.0&gt;&gt;
+* exclamdown (U+00A1): L&lt;&lt;85.0,-193.0&gt;--&lt;85.0,0.0&gt;&gt; -&gt; L&lt;&lt;85.0,0.0&gt;--&lt;114.0,365.0&gt;&gt;
+* lozenge (U+25CA): L&lt;&lt;308.0,113.0&gt;--&lt;387.0,237.0&gt;&gt; -&gt; L&lt;&lt;387.0,237.0&gt;--&lt;490.0,390.0&gt;&gt;
+* lozenge (U+25CA): L&lt;&lt;317.0,677.0&gt;--&lt;238.0,548.0&gt;&gt; -&gt; L&lt;&lt;238.0,548.0&gt;--&lt;140.0,402.0&gt;&gt;
+* lozenge (U+25CA): L&lt;&lt;490.0,390.0&gt;--&lt;408.0,515.0&gt;&gt; -&gt; L&lt;&lt;408.0,515.0&gt;--&lt;317.0,677.0&gt;&gt; and uni1799 (U+1799): L&lt;&lt;450.0,98.0&gt;--&lt;451.0,430.0&gt;&gt; -&gt; L&lt;&lt;451.0,430.0&gt;--&lt;451.0,514.0&gt;&gt; [code: found-colinear-vectors]</p>
+</span></li></ul></div></details>
+<h3>Do outlines contain any semi-vertical or semi-horizontal lines?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_semi_vertical&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
+<ul>
+<li>AE (U+00C6): L&lt;&lt;443.0,794.0&gt;--&lt;934.0,793.0&gt;&gt;</li>
+<li>Aacute (U+00C1): L&lt;&lt;377.0,1035.0&gt;--&lt;502.0,1034.0&gt;&gt;</li>
+<li>Agrave (U+00C0): L&lt;&lt;194.0,1034.0&gt;--&lt;319.0,1035.0&gt;&gt;</li>
+<li>Eacute (U+00C9): L&lt;&lt;344.0,1035.0&gt;--&lt;469.0,1034.0&gt;&gt;</li>
+<li>Egrave (U+00C8): L&lt;&lt;161.0,1034.0&gt;--&lt;286.0,1035.0&gt;&gt;</li>
+<li>Iacute (U+00CD): L&lt;&lt;189.0,1035.0&gt;--&lt;314.0,1034.0&gt;&gt;</li>
+<li>Igrave (U+00CC): L&lt;&lt;11.0,1034.0&gt;--&lt;136.0,1035.0&gt;&gt;</li>
+<li>OE (U+0152): L&lt;&lt;247.0,797.0&gt;--&lt;945.0,793.0&gt;&gt;</li>
+<li>OE (U+0152): L&lt;&lt;951.0,0.0&gt;--&lt;247.0,-4.0&gt;&gt;</li>
+<li>Oacute (U+00D3): L&lt;&lt;387.0,1035.0&gt;--&lt;512.0,1034.0&gt;&gt; and 74 more.</li>
+</ul>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]</p>
+</span></li></ul></div></details>
+                    </body>
+                </html>
