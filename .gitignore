@@ -2,10 +2,11 @@
 venv
 build.stamp
 proof
-fonts
 node_modules
 package-lock.json
 package.json
+instance_ufo
+master_ufo
 
 # OS generated files #
 ######################
