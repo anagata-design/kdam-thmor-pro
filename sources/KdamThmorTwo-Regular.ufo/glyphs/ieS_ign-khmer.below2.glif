@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ieSign-khmer.below2" format="2">
+  <advance width="317"/>
+  <outline>
+    <contour>
+      <point x="-163" y="-550" type="line"/>
+      <point x="171" y="-550" type="line" smooth="yes"/>
+      <point x="204" y="-550"/>
+      <point x="220" y="-526"/>
+      <point x="220" y="-493" type="curve" smooth="yes"/>
+      <point x="220" y="798" type="line" smooth="yes"/>
+      <point x="220" y="911"/>
+      <point x="154" y="976"/>
+      <point x="40" y="976" type="curve" smooth="yes"/>
+      <point x="-15" y="976" type="line"/>
+      <point x="-114" y="923" type="line"/>
+      <point x="-114" y="1035" type="line"/>
+      <point x="-232" y="1035" type="line"/>
+      <point x="-232" y="878" type="line" smooth="yes"/>
+      <point x="-232" y="846"/>
+      <point x="-215" y="830"/>
+      <point x="-182" y="830" type="curve" smooth="yes"/>
+      <point x="-114" y="830" type="line"/>
+      <point x="-14" y="878" type="line"/>
+      <point x="37" y="878" type="line" smooth="yes"/>
+      <point x="76" y="878"/>
+      <point x="98" y="848"/>
+      <point x="98" y="797" type="curve" smooth="yes"/>
+      <point x="98" y="-458" type="line"/>
+      <point x="-143" y="-458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="riel-khmer" format="2">
+  <advance width="333"/>
+  <unicode hex="17DB"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="246" y="0" name="bottomright"/>
+  <anchor x="171" y="732" name="top"/>
+  <anchor x="246" y="732" name="topright"/>
+  <outline>
+    <contour>
+      <point x="9" y="420" type="line"/>
+      <point x="9" y="328" type="line"/>
+      <point x="327" y="328" type="line"/>
+      <point x="327" y="420" type="line"/>
+    </contour>
+    <component base="ro-khmer"/>
+  </outline>
+</glyph>

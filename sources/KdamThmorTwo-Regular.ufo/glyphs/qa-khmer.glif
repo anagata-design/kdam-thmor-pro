@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qa-khmer" format="2">
+  <advance width="709"/>
+  <unicode hex="17A2"/>
+  <anchor x="355" y="0" name="bottom"/>
+  <anchor x="611" y="0" name="bottomright"/>
+  <anchor x="355" y="732" name="top"/>
+  <anchor x="611" y="732" name="topright"/>
+  <outline>
+    <contour>
+      <point x="155" y="318" type="line"/>
+      <point x="548" y="318" type="line"/>
+      <point x="548" y="410" type="line"/>
+      <point x="155" y="410" type="line"/>
+    </contour>
+    <component base="ro-khmer" xOffset="-1"/>
+    <component base="ro-khmer" xOffset="365"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ro-khmer</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

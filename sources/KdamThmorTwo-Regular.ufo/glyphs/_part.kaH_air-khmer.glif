@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.kaHair-khmer" format="2">
+  <advance width="684"/>
+  <anchor x="98" y="540" name="_hair"/>
+  <outline>
+    <contour>
+      <point x="108" y="531" type="curve"/>
+      <point x="175" y="550" type="line"/>
+      <point x="159" y="567"/>
+      <point x="138" y="599"/>
+      <point x="135" y="628" type="curve"/>
+      <point x="291" y="628" type="line"/>
+      <point x="342" y="590" type="line"/>
+      <point x="393" y="628" type="line"/>
+      <point x="582" y="628" type="line"/>
+      <point x="614" y="732" type="line"/>
+      <point x="394" y="732" type="line"/>
+      <point x="342" y="680" type="line"/>
+      <point x="290" y="732" type="line"/>
+      <point x="109" y="732" type="line"/>
+      <point x="60" y="636" type="line"/>
+      <point x="63" y="603"/>
+      <point x="82" y="559"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

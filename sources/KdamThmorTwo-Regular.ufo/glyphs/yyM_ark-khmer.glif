@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yyMark-khmer" format="2">
+  <unicode hex="17BA"/>
+  <anchor x="-100" y="732" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-540" y="820" type="line"/>
+      <point x="-100" y="820" type="line"/>
+      <point x="-100" y="1036" type="line"/>
+      <point x="-212" y="1036" type="line"/>
+      <point x="-212" y="909" type="line"/>
+      <point x="-310" y="936" type="line"/>
+      <point x="-540" y="936" type="line"/>
+    </contour>
+    <contour>
+      <point x="-286" y="900" type="line"/>
+      <point x="-286" y="1036" type="line"/>
+      <point x="-392" y="1036" type="line"/>
+      <point x="-392" y="920" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

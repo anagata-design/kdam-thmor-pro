@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ttho_aaSign-khmer.post2_" format="2">
+  <advance width="672"/>
+  <anchor x="574" y="732" name="auStroke"/>
+  <anchor x="-10" y="-330" name="bottom"/>
+  <anchor x="220" y="-330" name="bottomright"/>
+  <anchor x="0" y="732" name="top"/>
+  <anchor x="220" y="732" name="topright"/>
+  <outline>
+    <component base="ttho-khmer.post2"/>
+    <component base="aaSign-khmer" xOffset="318"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

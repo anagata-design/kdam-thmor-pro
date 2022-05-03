@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="robat-khmer" format="2">
+  <unicode hex="17CC"/>
+  <anchor x="-98" y="732" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-342" y="892" type="line"/>
+      <point x="-261" y="918"/>
+      <point x="-202" y="971"/>
+      <point x="-210" y="1036" type="curve"/>
+      <point x="-330" y="1036" type="line"/>
+      <point x="-319" y="957"/>
+      <point x="-417" y="912"/>
+      <point x="-500" y="888" type="curve"/>
+      <point x="-500" y="810" type="line"/>
+      <point x="-128" y="810" type="line"/>
+      <point x="-100" y="898" type="line"/>
+      <point x="-243" y="898" type="line"/>
+      <point x="-342" y="888" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

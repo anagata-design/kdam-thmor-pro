@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="la-khmer" format="2">
+  <advance width="978"/>
+  <unicode hex="17A1"/>
+  <anchor x="650" y="-330" name="bottom"/>
+  <anchor x="880" y="-330" name="bottomright"/>
+  <anchor x="664" y="732" name="top"/>
+  <anchor x="880" y="732" name="topright"/>
+  <outline>
+    <contour>
+      <point x="422" y="-330" type="line"/>
+      <point x="542" y="-330" type="line"/>
+      <point x="650" y="-224" type="line"/>
+      <point x="758" y="-330" type="line"/>
+      <point x="880" y="-330" type="line"/>
+      <point x="880" y="521" type="line"/>
+      <point x="831" y="550"/>
+      <point x="789" y="585"/>
+      <point x="766" y="628" type="curve"/>
+      <point x="888" y="628" type="line"/>
+      <point x="920" y="732" type="line"/>
+      <point x="722" y="732" type="line"/>
+      <point x="682" y="635" type="line"/>
+      <point x="689" y="596"/>
+      <point x="724" y="543"/>
+      <point x="758" y="514" type="curve"/>
+      <point x="758" y="-207" type="line"/>
+      <point x="660" y="-114" type="line"/>
+      <point x="640" y="-114" type="line"/>
+      <point x="542" y="-207" type="line"/>
+      <point x="542" y="-49" type="line"/>
+      <point x="364" y="-49" type="line"/>
+      <point x="364" y="-121" type="line"/>
+      <point x="422" y="-121" type="line"/>
+    </contour>
+    <component base="to-khmer"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=to-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ba-khmer</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

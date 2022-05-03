@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="la_auSign-khmer" format="2">
+  <advance width="1332"/>
+  <anchor x="650" y="-330" name="bottom"/>
+  <anchor x="880" y="-330" name="bottomright"/>
+  <anchor x="664" y="732" name="top"/>
+  <anchor x="880" y="732" name="topright"/>
+  <anchor x="1233" y="732" name="auStroke"/>
+  <outline>
+    <component base="la_aaSign-khmer"/>
+    <component base="_auStoke" xOffset="1008"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

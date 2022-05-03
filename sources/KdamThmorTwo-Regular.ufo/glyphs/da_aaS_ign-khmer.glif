@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="da_aaSign-khmer" format="2">
+  <advance width="1038"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="586" y="0" name="bottomright"/>
+  <anchor x="342" y="732" name="top"/>
+  <anchor x="586" y="732" name="topright"/>
+  <anchor x="940" y="732" name="auStroke"/>
+  <outline>
+    <component base="da-khmer"/>
+    <component base="aaSign-khmer.ligaKHA" xOffset="684"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>aaSign-khmer.ligaKHA</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khmer</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
