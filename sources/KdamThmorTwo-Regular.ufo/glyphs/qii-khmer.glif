@@ -1,110 +1,110 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qii-khmer" format="2">
-  <advance width="1001"/>
-  <unicode hex="17A6"/>
-  <note>
-Reduce depth of ie-head and chagne below loop
-</note>
-  <outline>
-    <contour>
-      <point x="498" y="-342" type="curve" smooth="yes"/>
-      <point x="854" y="-342" type="line" smooth="yes"/>
-      <point x="887" y="-342"/>
-      <point x="903" y="-326"/>
-      <point x="903" y="-293" type="curve" smooth="yes"/>
-      <point x="903" y="798" type="line" smooth="yes"/>
-      <point x="903" y="911"/>
-      <point x="837" y="976"/>
-      <point x="723" y="976" type="curve" smooth="yes"/>
-      <point x="668" y="976" type="line"/>
-      <point x="569" y="923" type="line"/>
-      <point x="569" y="1035" type="line"/>
-      <point x="451" y="1035" type="line"/>
-      <point x="451" y="878" type="line" smooth="yes"/>
-      <point x="451" y="846"/>
-      <point x="468" y="830"/>
-      <point x="501" y="830" type="curve" smooth="yes"/>
-      <point x="569" y="830" type="line"/>
-      <point x="669" y="878" type="line"/>
-      <point x="720" y="878" type="line" smooth="yes"/>
-      <point x="759" y="878"/>
-      <point x="781" y="848"/>
-      <point x="781" y="797" type="curve" smooth="yes"/>
-      <point x="781" y="-254" type="line"/>
-      <point x="565" y="-254" type="line"/>
-      <point x="565" y="-98" type="line" smooth="yes"/>
-      <point x="565" y="-65"/>
-      <point x="549" y="-49"/>
-      <point x="516" y="-49" type="curve" smooth="yes"/>
-      <point x="186" y="-49" type="line" smooth="yes"/>
-      <point x="153" y="-49"/>
-      <point x="137" y="-65"/>
-      <point x="137" y="-98" type="curve" smooth="yes"/>
-      <point x="137" y="-330" type="line"/>
-      <point x="248" y="-330" type="line" smooth="yes"/>
-      <point x="300" y="-330"/>
-      <point x="330" y="-303"/>
-      <point x="330" y="-257" type="curve" smooth="yes"/>
-      <point x="330" y="-212"/>
-      <point x="302" y="-186"/>
-      <point x="253" y="-186" type="curve"/>
-      <point x="253" y="-129" type="line"/>
-      <point x="449" y="-129" type="line"/>
-      <point x="449" y="-293" type="line" smooth="yes"/>
-      <point x="449" y="-326"/>
-      <point x="465" y="-342"/>
-    </contour>
-    <contour>
-      <point x="252" y="-289" type="curve"/>
-      <point x="252" y="-225" type="line"/>
-      <point x="274" y="-225"/>
-      <point x="286" y="-237"/>
-      <point x="286" y="-257" type="curve" smooth="yes"/>
-      <point x="286" y="-277"/>
-      <point x="274" y="-289"/>
-    </contour>
-    <contour>
-      <point x="464" y="0" type="line"/>
-      <point x="586" y="0" type="line"/>
-      <point x="586" y="684" type="line" smooth="yes"/>
-      <point x="586" y="716"/>
-      <point x="570" y="732"/>
-      <point x="537" y="732" type="curve" smooth="yes"/>
-      <point x="146" y="732" type="line" smooth="yes"/>
-      <point x="114" y="732"/>
-      <point x="98" y="716"/>
-      <point x="98" y="684" type="curve" smooth="yes"/>
-      <point x="98" y="0" type="line"/>
-      <point x="218" y="0" type="line"/>
-      <point x="281" y="19"/>
-      <point x="317" y="67"/>
-      <point x="317" y="134" type="curve" smooth="yes"/>
-      <point x="317" y="194"/>
-      <point x="283" y="236"/>
-      <point x="220" y="244" type="curve"/>
-      <point x="220" y="634" type="line"/>
-      <point x="464" y="634" type="line"/>
-    </contour>
-    <contour>
-      <point x="218" y="53" type="curve"/>
-      <point x="218" y="192" type="line"/>
-      <point x="245" y="188"/>
-      <point x="261" y="167"/>
-      <point x="261" y="132" type="curve" smooth="yes"/>
-      <point x="261" y="94"/>
-      <point x="244" y="67"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Letter</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Other</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<advance width="1001"/>
+	<unicode hex="17A6"/>
+	<note>
+		Reduce depth of ie-head and chagne below loop
+	</note>
+	<outline>
+		<contour>
+			<point x="498" y="-342" type="curve" smooth="yes"/>
+			<point x="854" y="-342" type="line" smooth="yes"/>
+			<point x="887" y="-342"/>
+			<point x="903" y="-326"/>
+			<point x="903" y="-293" type="curve" smooth="yes"/>
+			<point x="903" y="798" type="line" smooth="yes"/>
+			<point x="903" y="911"/>
+			<point x="837" y="976"/>
+			<point x="723" y="976" type="curve" smooth="yes"/>
+			<point x="668" y="976" type="line"/>
+			<point x="569" y="923" type="line"/>
+			<point x="569" y="1035" type="line"/>
+			<point x="451" y="1035" type="line"/>
+			<point x="451" y="878" type="line" smooth="yes"/>
+			<point x="451" y="846"/>
+			<point x="468" y="830"/>
+			<point x="501" y="830" type="curve" smooth="yes"/>
+			<point x="569" y="830" type="line"/>
+			<point x="669" y="878" type="line"/>
+			<point x="720" y="878" type="line" smooth="yes"/>
+			<point x="759" y="878"/>
+			<point x="781" y="848"/>
+			<point x="781" y="797" type="curve" smooth="yes"/>
+			<point x="781" y="-254" type="line"/>
+			<point x="565" y="-254" type="line"/>
+			<point x="565" y="-98" type="line" smooth="yes"/>
+			<point x="565" y="-65"/>
+			<point x="549" y="-49"/>
+			<point x="516" y="-49" type="curve" smooth="yes"/>
+			<point x="186" y="-49" type="line" smooth="yes"/>
+			<point x="153" y="-49"/>
+			<point x="137" y="-65"/>
+			<point x="137" y="-98" type="curve" smooth="yes"/>
+			<point x="137" y="-330" type="line"/>
+			<point x="248" y="-330" type="line" smooth="yes"/>
+			<point x="300" y="-330"/>
+			<point x="330" y="-303"/>
+			<point x="330" y="-257" type="curve" smooth="yes"/>
+			<point x="330" y="-212"/>
+			<point x="302" y="-186"/>
+			<point x="253" y="-186" type="curve"/>
+			<point x="253" y="-129" type="line"/>
+			<point x="449" y="-129" type="line"/>
+			<point x="449" y="-293" type="line" smooth="yes"/>
+			<point x="449" y="-326"/>
+			<point x="465" y="-342"/>
+		</contour>
+		<contour>
+			<point x="252" y="-289" type="curve"/>
+			<point x="252" y="-225" type="line"/>
+			<point x="274" y="-225"/>
+			<point x="286" y="-237"/>
+			<point x="286" y="-257" type="curve" smooth="yes"/>
+			<point x="286" y="-277"/>
+			<point x="274" y="-289"/>
+		</contour>
+		<contour>
+			<point x="464" y="0" type="line"/>
+			<point x="586" y="0" type="line"/>
+			<point x="586" y="684" type="line" smooth="yes"/>
+			<point x="586" y="716"/>
+			<point x="570" y="732"/>
+			<point x="537" y="732" type="curve" smooth="yes"/>
+			<point x="146" y="732" type="line" smooth="yes"/>
+			<point x="114" y="732"/>
+			<point x="98" y="716"/>
+			<point x="98" y="684" type="curve" smooth="yes"/>
+			<point x="98" y="0" type="line"/>
+			<point x="218" y="0" type="line"/>
+			<point x="281" y="19"/>
+			<point x="317" y="67"/>
+			<point x="317" y="134" type="curve" smooth="yes"/>
+			<point x="317" y="194"/>
+			<point x="283" y="236"/>
+			<point x="220" y="244" type="curve"/>
+			<point x="220" y="634" type="line"/>
+			<point x="464" y="634" type="line"/>
+		</contour>
+		<contour>
+			<point x="218" y="53" type="curve"/>
+			<point x="218" y="192" type="line"/>
+			<point x="245" y="188"/>
+			<point x="261" y="167"/>
+			<point x="261" y="132" type="curve" smooth="yes"/>
+			<point x="261" y="94"/>
+			<point x="244" y="67"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

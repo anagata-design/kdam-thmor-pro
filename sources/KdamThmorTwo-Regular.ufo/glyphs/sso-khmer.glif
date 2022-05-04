@@ -1,30 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sso-khmer" format="2">
-  <advance width="684"/>
-  <unicode hex="179E"/>
-  <anchor x="342" y="732" name="top"/>
-  <anchor x="586" y="732" name="topright"/>
-  <anchor x="586" y="0" name="bottomright"/>
-  <anchor x="342" y="0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="353" y="370" type="line"/>
-      <point x="353" y="278" type="line"/>
-      <point x="670" y="278" type="line"/>
-      <point x="670" y="370" type="line"/>
-    </contour>
-    <component base="ba-khmer"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Letter</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Other</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<advance width="684"/>
+	<unicode hex="179E"/>
+	<anchor x="342" y="732" name="top"/>
+	<anchor x="586" y="732" name="topright"/>
+	<anchor x="586" y="0" name="bottomright"/>
+	<anchor x="342" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="353" y="370" type="line"/>
+			<point x="353" y="278" type="line"/>
+			<point x="670" y="278" type="line"/>
+			<point x="670" y="370" type="line"/>
+		</contour>
+		<component base="ba-khmer"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Letter</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Other</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

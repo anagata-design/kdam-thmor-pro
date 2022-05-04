@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-  <advance width="358"/>
-  <unicode hex="004A"/>
-  <outline>
-    <contour>
-      <point x="271" y="147" type="curve" smooth="yes"/>
-      <point x="271" y="793" type="line"/>
-      <point x="145" y="793" type="line"/>
-      <point x="145" y="117" type="line" smooth="yes"/>
-      <point x="145" y="108"/>
-      <point x="140" y="104"/>
-      <point x="132" y="104" type="curve" smooth="yes"/>
-      <point x="9" y="104" type="line"/>
-      <point x="9" y="-9" type="line"/>
-      <point x="102" y="-9" type="line" smooth="yes"/>
-      <point x="217" y="-9"/>
-      <point x="271" y="36"/>
-    </contour>
-  </outline>
+	<advance width="358"/>
+	<unicode hex="004A"/>
+	<outline>
+		<contour>
+			<point x="271" y="147" type="curve" smooth="yes"/>
+			<point x="271" y="793" type="line"/>
+			<point x="145" y="793" type="line"/>
+			<point x="145" y="117" type="line" smooth="yes"/>
+			<point x="145" y="108"/>
+			<point x="140" y="104"/>
+			<point x="132" y="104" type="curve" smooth="yes"/>
+			<point x="9" y="104" type="line"/>
+			<point x="9" y="-9" type="line"/>
+			<point x="102" y="-9" type="line" smooth="yes"/>
+			<point x="217" y="-9"/>
+			<point x="271" y="36"/>
+		</contour>
+	</outline>
 </glyph>

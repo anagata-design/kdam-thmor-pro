@@ -1,33 +1,34 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uaMark-khmer.below2" format="2">
-  <anchor x="-100" y="-330" name="_bottomright"/>
-  <outline>
-    <contour>
-      <point x="-195" y="-550" type="line"/>
-      <point x="-100" y="-550" type="line"/>
-      <point x="-100" y="-370" type="line"/>
-      <point x="-204" y="-370" type="line"/>
-      <point x="-204" y="-480" type="line"/>
-      <point x="-307" y="-425" type="line"/>
-      <point x="-307" y="-489" type="line"/>
-    </contour>
-    <contour>
-      <point x="-398" y="-550" type="line"/>
-      <point x="-294" y="-550" type="line"/>
-      <point x="-294" y="-370" type="line"/>
-      <point x="-398" y="-370" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<anchor x="-100" y="-330" name="_bottomright"/>
+	<outline>
+		<contour>
+			<point x="-195" y="-550" type="line"/>
+			<point x="-100" y="-550" type="line"/>
+			<point x="-100" y="-370" type="line"/>
+			<point x="-204" y="-370" type="line"/>
+			<point x="-204" y="-480" type="line"/>
+			<point x="-307" y="-425" type="line"/>
+			<point x="-307" y="-489" type="line"/>
+		</contour>
+		<contour>
+			<point x="-398" y="-550" type="line"/>
+			<point x="-294" y="-550" type="line"/>
+			<point x="-294" y="-370" type="line"/>
+			<point x="-398" y="-370" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

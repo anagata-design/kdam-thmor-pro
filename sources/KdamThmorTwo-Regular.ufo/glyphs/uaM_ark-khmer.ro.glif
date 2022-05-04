@@ -1,35 +1,36 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uaMark-khmer.ro" format="2">
-  <anchor x="-150" y="0" name="_bottomright"/>
-  <outline>
-    <contour>
-      <point x="-414" y="-330" type="line"/>
-      <point x="-321" y="-330" type="line"/>
-      <point x="-257" y="-258" type="line"/>
-      <point x="-193" y="-330" type="line"/>
-      <point x="-100" y="-330" type="line"/>
-      <point x="-100" y="-50" type="line"/>
-      <point x="-206" y="-50" type="line"/>
-      <point x="-206" y="-217" type="line"/>
-      <point x="-252" y="-169" type="line"/>
-      <point x="-262" y="-169" type="line"/>
-      <point x="-308" y="-217" type="line"/>
-      <point x="-308" y="-50" type="line"/>
-      <point x="-414" y="-50" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.category</key>
-      <string>Mark</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2022-05-04 04:09:18 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.script</key>
-      <string>khmer</string>
-      <key>com.schriftgestaltung.Glyphs.subCategory</key>
-      <string>Nonspacing</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<anchor x="-150" y="0" name="_bottomright"/>
+	<outline>
+		<contour>
+			<point x="-414" y="-330" type="line"/>
+			<point x="-321" y="-330" type="line"/>
+			<point x="-257" y="-258" type="line"/>
+			<point x="-193" y="-330" type="line"/>
+			<point x="-100" y="-330" type="line"/>
+			<point x="-100" y="-50" type="line"/>
+			<point x="-206" y="-50" type="line"/>
+			<point x="-206" y="-217" type="line"/>
+			<point x="-252" y="-169" type="line"/>
+			<point x="-262" y="-169" type="line"/>
+			<point x="-308" y="-217" type="line"/>
+			<point x="-308" y="-50" type="line"/>
+			<point x="-414" y="-50" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.category</key>
+			<string>Mark</string>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-05-04 04:09:18 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.script</key>
+			<string>khmer</string>
+			<key>com.schriftgestaltung.Glyphs.subCategory</key>
+			<string>Nonspacing</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

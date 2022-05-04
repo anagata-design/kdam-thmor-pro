@@ -1,54 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="koomuut-khmer" format="2">
-  <advance width="1205"/>
-  <unicode hex="17DA"/>
-  <outline>
-    <contour>
-      <point x="147" y="62" type="curve" smooth="yes"/>
-      <point x="472" y="62" type="line"/>
-      <point x="590" y="428" type="line"/>
-      <point x="566" y="429" type="line"/>
-      <point x="654" y="113" type="line"/>
-      <point x="747" y="113" type="line"/>
-      <point x="838" y="395" type="line"/>
-      <point x="824" y="396" type="line"/>
-      <point x="893" y="153" type="line"/>
-      <point x="975" y="153" type="line"/>
-      <point x="1059" y="345" type="line"/>
-      <point x="1156" y="345" type="line"/>
-      <point x="1175" y="429" type="line"/>
-      <point x="1008" y="429" type="line"/>
-      <point x="936" y="250" type="line"/>
-      <point x="955" y="250" type="line"/>
-      <point x="877" y="519" type="line"/>
-      <point x="791" y="519" type="line"/>
-      <point x="698" y="217" type="line"/>
-      <point x="729" y="217" type="line"/>
-      <point x="630" y="559" type="line"/>
-      <point x="531" y="559" type="line"/>
-      <point x="406" y="154" type="line"/>
-      <point x="220" y="154" type="line"/>
-      <point x="220" y="548" type="line"/>
-      <point x="328" y="548" type="line"/>
-      <point x="328" y="448" type="line"/>
-      <point x="415" y="448" type="line"/>
-      <point x="415" y="592" type="line"/>
-      <point x="415" y="623"/>
-      <point x="397" y="640"/>
-      <point x="365" y="640" type="curve"/>
-      <point x="148" y="640" type="line" smooth="yes"/>
-      <point x="116" y="640"/>
-      <point x="98" y="623"/>
-      <point x="98" y="592" type="curve" smooth="yes"/>
-      <point x="98" y="110" type="line" smooth="yes"/>
-      <point x="98" y="78"/>
-      <point x="114" y="62"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<advance width="1205"/>
+	<unicode hex="17DA"/>
+	<outline>
+		<contour>
+			<point x="147" y="62" type="curve" smooth="yes"/>
+			<point x="472" y="62" type="line"/>
+			<point x="590" y="428" type="line"/>
+			<point x="566" y="429" type="line"/>
+			<point x="654" y="113" type="line"/>
+			<point x="747" y="113" type="line"/>
+			<point x="838" y="395" type="line"/>
+			<point x="824" y="396" type="line"/>
+			<point x="893" y="153" type="line"/>
+			<point x="975" y="153" type="line"/>
+			<point x="1059" y="345" type="line"/>
+			<point x="1156" y="345" type="line"/>
+			<point x="1175" y="429" type="line"/>
+			<point x="1008" y="429" type="line"/>
+			<point x="936" y="250" type="line"/>
+			<point x="955" y="250" type="line"/>
+			<point x="877" y="519" type="line"/>
+			<point x="791" y="519" type="line"/>
+			<point x="698" y="217" type="line"/>
+			<point x="729" y="217" type="line"/>
+			<point x="630" y="559" type="line"/>
+			<point x="531" y="559" type="line"/>
+			<point x="406" y="154" type="line"/>
+			<point x="220" y="154" type="line"/>
+			<point x="220" y="548" type="line"/>
+			<point x="328" y="548" type="line"/>
+			<point x="328" y="448" type="line"/>
+			<point x="415" y="448" type="line"/>
+			<point x="415" y="592" type="line"/>
+			<point x="415" y="623"/>
+			<point x="397" y="640"/>
+			<point x="365" y="640" type="curve"/>
+			<point x="148" y="640" type="line" smooth="yes"/>
+			<point x="116" y="640"/>
+			<point x="98" y="623"/>
+			<point x="98" y="592" type="curve" smooth="yes"/>
+			<point x="98" y="110" type="line" smooth="yes"/>
+			<point x="98" y="78"/>
+			<point x="114" y="62"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>
