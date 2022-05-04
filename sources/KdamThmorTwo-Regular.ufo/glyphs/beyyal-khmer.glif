@@ -2,10 +2,10 @@
 <glyph name="beyyal-khmer" format="2">
   <advance width="2199"/>
   <unicode hex="17D8"/>
-  <anchor x="1278" y="0" name="bottom"/>
-  <anchor x="1514" y="0" name="bottomright"/>
   <anchor x="1278" y="732" name="top"/>
   <anchor x="1514" y="732" name="topright"/>
+  <anchor x="1514" y="0" name="bottomright"/>
+  <anchor x="1278" y="0" name="bottom"/>
   <outline>
     <component base="khan-khmer"/>
     <component base="lo-khmer" xOffset="590"/>

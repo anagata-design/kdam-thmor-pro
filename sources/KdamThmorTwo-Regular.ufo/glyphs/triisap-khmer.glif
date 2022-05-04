@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="triisap-khmer" format="2">
   <unicode hex="17CA"/>
-  <anchor x="-365" y="732" name="_top"/>
   <anchor x="-352" y="912" name="top"/>
   <anchor x="-130" y="912" name="topright"/>
+  <anchor x="-365" y="732" name="_top"/>
   <outline>
     <contour>
       <point x="-404" y="780" type="line"/>

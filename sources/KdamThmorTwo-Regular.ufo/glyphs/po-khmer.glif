@@ -2,10 +2,10 @@
 <glyph name="po-khmer" format="2">
   <advance width="684"/>
   <unicode hex="1796"/>
-  <anchor x="342" y="0" name="bottom"/>
-  <anchor x="586" y="0" name="bottomright"/>
   <anchor x="342" y="732" name="top"/>
   <anchor x="586" y="732" name="topright"/>
+  <anchor x="586" y="0" name="bottomright"/>
+  <anchor x="342" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="464" y="0" type="line"/>

@@ -2,10 +2,10 @@
 <glyph name="la-khmer" format="2">
   <advance width="978"/>
   <unicode hex="17A1"/>
-  <anchor x="650" y="-330" name="bottom"/>
-  <anchor x="880" y="-330" name="bottomright"/>
   <anchor x="664" y="732" name="top"/>
   <anchor x="880" y="732" name="topright"/>
+  <anchor x="880" y="-330" name="bottomright"/>
+  <anchor x="650" y="-330" name="bottom"/>
   <outline>
     <contour>
       <point x="422" y="-330" type="line"/>

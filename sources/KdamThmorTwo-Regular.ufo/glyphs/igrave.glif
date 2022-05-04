@@ -2,8 +2,8 @@
 <glyph name="igrave" format="2">
   <advance width="290"/>
   <unicode hex="00EC"/>
-  <anchor x="145" y="0" name="bottom"/>
   <anchor x="252" y="13" name="ogonek"/>
+  <anchor x="145" y="0" name="bottom"/>
   <anchor x="145" y="611" name="top"/>
   <outline>
     <component base="idotless"/>

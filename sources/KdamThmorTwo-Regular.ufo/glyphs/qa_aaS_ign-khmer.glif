@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qa_aaSign-khmer" format="2">
   <advance width="1063"/>
-  <anchor x="355" y="0" name="bottom"/>
-  <anchor x="611" y="0" name="bottomright"/>
+  <anchor x="964" y="732" name="auStroke"/>
   <anchor x="355" y="732" name="top"/>
   <anchor x="611" y="732" name="topright"/>
-  <anchor x="964" y="732" name="auStroke"/>
+  <anchor x="611" y="0" name="bottomright"/>
+  <anchor x="355" y="0" name="bottom"/>
   <outline>
     <component base="qa-khmer"/>
     <component base="aaSign-khmer" xOffset="709"/>

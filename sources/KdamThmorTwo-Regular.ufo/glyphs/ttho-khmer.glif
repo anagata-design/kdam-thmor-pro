@@ -2,10 +2,10 @@
 <glyph name="ttho-khmer" format="2">
   <advance width="1024"/>
   <unicode hex="178D"/>
-  <anchor x="688" y="0" name="bottom"/>
-  <anchor x="924" y="0" name="bottomright"/>
   <anchor x="688" y="732" name="top"/>
   <anchor x="924" y="732" name="topright"/>
+  <anchor x="924" y="0" name="bottomright"/>
+  <anchor x="688" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="441" y="0" type="curve"/>

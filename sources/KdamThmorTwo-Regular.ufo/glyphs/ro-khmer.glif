@@ -2,10 +2,10 @@
 <glyph name="ro-khmer" format="2">
   <advance width="344"/>
   <unicode hex="179A"/>
-  <anchor x="172" y="0" name="bottom"/>
-  <anchor x="246" y="0" name="bottomright"/>
   <anchor x="171" y="732" name="top"/>
   <anchor x="246" y="732" name="topright"/>
+  <anchor x="246" y="0" name="bottomright"/>
+  <anchor x="172" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="127" y="0" type="curve"/>

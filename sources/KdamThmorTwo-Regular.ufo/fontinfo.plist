@@ -26,16 +26,6 @@
       </dict>
       <dict>
         <key>angle</key>
-        <integer>270</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>98</integer>
-        <key>y</key>
-        <integer>611</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
         <integer>90</integer>
         <key>name</key>
         <string> [locked]</string>
@@ -83,8 +73,6 @@
         <integer>611</integer>
       </dict>
     </array>
-    <key>italicAngle</key>
-    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2022/01/03 06:27:46</string>
     <key>openTypeHheaAscender</key>
@@ -123,6 +111,10 @@
     </array>
     <key>openTypeOS2VendorID</key>
     <string>ANGT</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>1150</integer>
     <key>openTypeOS2WinDescent</key>
@@ -144,6 +136,8 @@
       <integer>810</integer>
       <integer>826</integer>
     </array>
+    <key>postscriptFontName</key>
+    <string>KdamThmorTwo-Regular</string>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-560</integer>
@@ -179,7 +173,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>612</integer>
   </dict>
