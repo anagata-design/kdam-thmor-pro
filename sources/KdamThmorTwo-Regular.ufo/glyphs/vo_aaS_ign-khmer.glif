@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="vo_aaSign-khmer" format="2">
 	<advance width="698"/>
-	<anchor x="227" y="0" name="bottomright"/>
+	<anchor x="153" y="0" name="bottom"/>
 	<anchor x="172" y="732" name="top"/>
 	<anchor x="246" y="732" name="topright"/>
+	<anchor x="227" y="0" name="bottomright"/>
 	<anchor x="600" y="732" name="auStroke"/>
-	<anchor x="153" y="0" name="bottom"/>
 	<outline>
 		<component base="vo-khmer"/>
 		<component base="aaSign-khmer.ligaVo" xOffset="344"/>

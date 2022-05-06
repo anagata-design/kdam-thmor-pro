@@ -107,10 +107,7 @@
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>/ka-khmer/yo-khmer.post2/ro-khmer.pre2/ka-khmer/yaSign-khmer.below2/ka-khmer/ieSign-khmer.below2/space/ka-khmer/ka-khmer.below/yyMark-khmer</string>
-		<string>/kho_aaSign-khmer.post2_/kho_auSign-khmer.post2_/yo_auSign-khmer.post2_</string>
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.customParameters</key>
@@ -1747,6 +1744,18 @@
 				<string>_auStoke</string>
 			</array>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Use Typo Metrics</string>
+			<key>value</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Use Line Breaks</string>
+			<key>value</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>com.schriftgestaltung.font.userData</key>
 	<dict>
@@ -2843,6 +2852,7 @@
 		<string>_part.kaHair-khmer</string>
 		<string>_kaHairLiga-khmer</string>
 		<string>_auStoke</string>
+		<string>NULL</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict>

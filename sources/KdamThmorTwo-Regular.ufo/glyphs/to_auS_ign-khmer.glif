@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="to_auSign-khmer" format="2">
 	<advance width="1012"/>
-	<anchor x="560" y="0" name="bottomright"/>
+	<anchor x="339" y="0" name="bottom"/>
 	<anchor x="327" y="732" name="top"/>
 	<anchor x="571" y="732" name="topright"/>
+	<anchor x="560" y="0" name="bottomright"/>
 	<anchor x="914" y="732" name="auStroke"/>
-	<anchor x="339" y="0" name="bottom"/>
 	<outline>
 		<component base="to_aaSign-khmer"/>
 		<component base="_auStoke" xOffset="689"/>

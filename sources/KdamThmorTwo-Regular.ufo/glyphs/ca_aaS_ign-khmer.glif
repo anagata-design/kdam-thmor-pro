@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ca_aaSign-khmer" format="2">
 	<advance width="1038"/>
-	<anchor x="342" y="0" name="bottom"/>
+	<anchor x="586" y="0" name="bottomright"/>
 	<anchor x="342" y="732" name="top"/>
 	<anchor x="586" y="732" name="topright"/>
 	<anchor x="940" y="732" name="auStroke"/>
-	<anchor x="586" y="0" name="bottomright"/>
+	<anchor x="342" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="148" y="0" type="curve" smooth="yes"/>

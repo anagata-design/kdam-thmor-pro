@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nno_aaSign-khmer" format="2">
 	<advance width="1726"/>
-	<anchor x="922" y="0" name="bottomright"/>
+	<anchor x="686" y="0" name="bottom"/>
 	<anchor x="686" y="732" name="top"/>
 	<anchor x="1275" y="732" name="topright"/>
+	<anchor x="922" y="0" name="bottomright"/>
 	<anchor x="1628" y="732" name="auStroke"/>
-	<anchor x="686" y="0" name="bottom"/>
 	<outline>
 		<component base="nno-khmer"/>
 		<component base="aaSign-khmer.ligaKHA" xOffset="1372"/>

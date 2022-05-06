@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cho_aaSign-khmer.post2_" format="2">
 	<advance width="672"/>
-	<anchor x="-45" y="-550" name="bottom"/>
+	<anchor x="220" y="-550" name="bottomright"/>
 	<anchor x="0" y="732" name="top"/>
 	<anchor x="220" y="732" name="topright"/>
 	<anchor x="574" y="732" name="auStroke"/>
-	<anchor x="220" y="-550" name="bottomright"/>
+	<anchor x="-45" y="-550" name="bottom"/>
 	<outline>
 		<component base="cho-khmer.post2"/>
 		<component base="aaSign-khmer" xOffset="318"/>
