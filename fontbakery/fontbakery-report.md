@@ -2,11 +2,7 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[8] KdamThmorTwo-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/KdamThmorTwo-Regular.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
+<details><summary><b>[7] KdamThmorTwo-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Checking OS/2 achVendID. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id">com.google.fonts/check/vendor_id</a>)</summary><div>
 
 
 * ⚠ **WARN** OS/2 VendorID value 'ANGT' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
@@ -53,7 +49,7 @@ The following glyphs do not have the recommended number of contours:
 	* Z (U+005A): X=558.0,Y=-1.0 (should be at baseline 0?)
 	* Z (U+005A): X=134.0,Y=-1.0 (should be at baseline 0?)
 	* Z (U+005A): X=63.0,Y=794.0 (should be at cap-height 793?)
-	* Z (U+005A): X=463.0,Y=794.0 (should be at cap-height 793?) and 19 more.
+	* Z (U+005A): X=463.0,Y=794.0 (should be at cap-height 793?) and 17 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-misalignments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -90,7 +86,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 1 | 7 | 109 | 7 | 101 | 0 |
+| 0 | 0 | 7 | 109 | 7 | 102 | 0 |
 | 0% | 0% | 3% | 48% | 3% | 45% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
