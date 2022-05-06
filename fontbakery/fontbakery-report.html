@@ -94,19 +94,19 @@
 <h3>Checking OS/2 achVendID.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/vendor_id&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 VendorID value 'ANGT' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorPro-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 VendorID value 'ANGT' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
 [code: unknown]</p>
 </span></li></ul></div></details>
 <h3>Ensure fonts have ScriptLangTags declared on the 'meta' table.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/meta/script_lang_tags&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorPro-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
 </span></li></ul></div></details>
 <h2>&lt;Section: Universal&gt; ⚠️⚠️⏩⏩⏩⏩⏩ℹ️ℹ️</h2>
 <h3>Check if each glyph has the recommended amount of contours.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/contour_count&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorPro-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
 </span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
 <p>The following glyphs do not have the recommended number of contours:</p>
 <pre><code>- Glyph name: asterisk	Contours detected: 5	Expected: 1 or 4
@@ -127,13 +127,13 @@
 <h3>Ensure no GSUB5/GPOS7 lookups are present.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gsub5_gpos7&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font contains a GSUB5 lookup which is not processed by macOS [code: has-gsub5]</p>
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorPro-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Font contains a GSUB5 lookup which is not processed by macOS [code: has-gsub5]</p>
 </span></li></ul></div></details>
 <h2>&lt;Section: Outline Correctness Checks&gt; ⚠️⚠️⚠️</h2>
 <h3>Are there any misaligned on-curve points?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_alignment_miss&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have on-curve points which have potentially incorrect y coordinates:
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorPro-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have on-curve points which have potentially incorrect y coordinates:
 * comma (U+002C): X=92.0,Y=2.0 (should be at baseline 0?)
 * comma (U+002C): X=51.0,Y=2.0 (should be at baseline 0?)
 * seven (U+0037): X=21.0,Y=794.0 (should be at cap-height 793?)
@@ -149,7 +149,7 @@
 <h3>Do any segments have colinear vectors?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_colinear_vectors&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorPro-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
 * dagger (U+2020): L&lt;&lt;227.0,0.0&gt;--&lt;213.0,305.0&gt;&gt; -&gt; L&lt;&lt;213.0,305.0&gt;--&lt;213.0,448.0&gt;&gt;
 * dagger (U+2020): L&lt;&lt;292.0,448.0&gt;--&lt;292.0,306.0&gt;&gt; -&gt; L&lt;&lt;292.0,306.0&gt;--&lt;277.0,0.0&gt;&gt;
 * exclam (U+0021): L&lt;&lt;120.0,247.0&gt;--&lt;92.0,612.0&gt;&gt; -&gt; L&lt;&lt;92.0,612.0&gt;--&lt;92.0,805.0&gt;&gt;
@@ -163,7 +163,7 @@
 <h3>Do outlines contain any semi-vertical or semi-horizontal lines?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_semi_vertical&gt;</div>
 
-<details><summary>⚠️ <strong>fonts/ttf/KdamThmorTwo-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
+<details><summary>⚠️ <strong>fonts/ttf/KdamThmorPro-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
 <ul>
 <li>AE (U+00C6): L&lt;&lt;443.0,794.0&gt;--&lt;934.0,793.0&gt;&gt;</li>
 <li>Aacute (U+00C1): L&lt;&lt;377.0,1035.0&gt;--&lt;502.0,1034.0&gt;&gt;</li>
