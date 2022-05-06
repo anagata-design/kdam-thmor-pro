@@ -6,7 +6,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="KdamThmorTwo-Regular.ufo" name="Kdam Thmor Two Regular" familyname="Kdam Thmor Two" stylename="Regular">
+    <source filename="KdamThmorPro-Regular.ufo" name="Kdam Thmor Pro Regular" familyname="Kdam Thmor Pro" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -17,7 +17,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Kdam Thmor Two Regular" familyname="Kdam Thmor Two" stylename="Regular" filename="instance_ufos/KdamThmorTwo-Regular.ufo" stylemapfamilyname="Kdam Thmor Two" stylemapstylename="regular">
+    <instance name="Kdam Thmor Pro Regular" familyname="Kdam Thmor Pro" stylename="Regular" filename="instance_ufos/KdamThmorPro-Regular.ufo" stylemapfamilyname="Kdam Thmor Pro" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="72"/>
       </location>

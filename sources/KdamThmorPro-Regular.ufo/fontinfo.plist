@@ -7,11 +7,11 @@
 	<key>capHeight</key>
 	<integer>793</integer>
 	<key>copyright</key>
-	<string>Copyright 2022 The Kdam Thmor Project Authors (https://www.github.com/sovichet/kdam-thmor-two)</string>
+	<string>Copyright 2022 The Kdam Thmor Pro Project Authors (https://www.github.com/sovichet/kdam-thmor-pro)</string>
 	<key>descender</key>
 	<integer>-330</integer>
 	<key>familyName</key>
-	<string>Kdam Thmor Two</string>
+	<string>Kdam Thmor Pro</string>
 	<key>guidelines</key>
 	<array>
 		<dict>
@@ -117,7 +117,7 @@
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
 	<key>styleMapFamilyName</key>
-	<string>Kdam Thmor Two</string>
+	<string>Kdam Thmor Pro</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
