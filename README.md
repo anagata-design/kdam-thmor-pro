@@ -1,16 +1,16 @@
 # Kdam Thmor Pro
 
-[![][Fontbakery]](https://sovichet.github.io/kdam-thmor-pro.git/fontbakery/fontbakery-report.html)
-[![][Universal]](https://sovichet.github.io/kdam-thmor-pro.git/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://sovichet.github.io/kdam-thmor-pro.git/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://sovichet.github.io/kdam-thmor-pro.git/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://sovichet.github.io/kdam-thmor-pro.git/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://sovichet.github.io/kdam-thmor-pro/fontbakery/fontbakery-report.html)
+[![][Universal]](https://sovichet.github.io/kdam-thmor-pro/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://sovichet.github.io/kdam-thmor-pro/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://sovichet.github.io/kdam-thmor-pro/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://sovichet.github.io/kdam-thmor-pro/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro.git%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro.git%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro.git%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro.git%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro.git%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsovichet%2Fkdam-thmor-pro%2Fgh-pages%2Fbadges%2FUniversal.json
 
 ![Kdam Thmor Pro Typeface Family Sample](documentation/image1.png)
 
